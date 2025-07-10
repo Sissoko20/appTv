@@ -1,0 +1,3 @@
+streamlit
+requests
+python-vlc  # facultatif si tu veux lancer VLC
